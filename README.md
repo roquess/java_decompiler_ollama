@@ -13,7 +13,8 @@ Add the following dependency to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-java_decompiler_ollama = 0.1.0
+java_decompiler_ollama = "0.1.0"
+
 ```
 
 ## Usage
